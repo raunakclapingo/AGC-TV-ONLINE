@@ -17,6 +17,12 @@ https://allinonereborn.fun/opplex156.m3u8?id=244865
 #EXTGRP:NEWS
 https://mini.allinonereborn.online/zee880/index.php?id=0-9-zeebiharjharkhand
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=1034&key
+#EXTINF: -1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74233-la71l5eg-v4/imageContent-74233-la71l5eg-m5.png", News State Bihar Jharkhand
+#EXTGRP:NEWS
+https://amg24335-amg24335c4-amgplt0016.playout.now3.amagi.tv/playlist/amg24335-amg24335c4-amgplt0016/playlist.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xH6iEhncN42GIM2G4vyZ8g","kid":"/Cuk+v9dVfubiFi/3WslNw"}],"type":"temporary"}
@@ -24,7 +30,7 @@ https://mini.allinonereborn.online/zee880/index.php?id=0-9-zeebiharjharkhand
 #EXTHTTP:{"cookie":"hdntl=exp=1718509732~acl=%2f*~data=hdntl~hmac=19041526a0ce959f5dcd2a69ea70c226fafbae4abafc63addb73b45ada6b135b"}
 #EXTINF: -1 tvg-name="AAJ TAK HD" tvg-chno="1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Aaj_Tak_HD_v2.png/revision/latest?cb=20210310202037", AAJ TAK HD
 #EXTGRP:NEWS
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-aajtak-samsungin/playlist.m3u8
+https://amg01448-samsungin-aajtak-amagi-ssai-samsungin-bxp19.amagi.tv/playlist/amg01448-samsungin-aajtak-amagi-ssai-samsungin/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=106&key
@@ -78,49 +84,104 @@ https://amg01448-samsungin-tv9bharatvarsh-samsungin-3q1ih.amagi.tv/playlist/amg0
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=104&key
 #EXTINF: -1 tvg-id="5" tvg-name="India TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/India_tv_logo-en.png", India TV
 #EXTGRP:NEWS
-http://filex.me:8080//live/Home329/Sohailhome/497260.ts
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=183&key
-#EXTINF: -1 tvg-name="INDIA NEWS" tvg-chno="7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_news.png", INDIA NEWS
-#EXTGRP:NEWS
-http://filex.me:8080//live/Home329/Sohailhome/497256.ts
+http://filex.me:8080//live/Home329/Sohailhome/701306.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=209&key
 #EXTINF: -1 tvg-name="NEWS 24" tvg-chno="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg", NEWS 24
 #EXTGRP:NEWS
-https://allinonereborn.fun/opplex156.m3u8?id=244805
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=36&key
-#EXTINF: -1 tvg-name="NEWS NATION" tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/News_nation_logo.jpg", NEWS NATION
-#EXTGRP:NEWS
-http://filex.me:8080//live/Home329/Sohailhome/701324.ts
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=1010&key
-#EXTINF: -1 tvg-name="" tvg-logo="https://i.imgur.io/KPLISR0_d.webp?maxwidth=640&shape=thumb&fidelity=medium", Bharat 24
-#EXTGRP:NEWS
-https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1836/output/manifest.mpd
+https://amg13643-amg13643c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13643-amg13643c1-amgplt0016/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=691&key
 #EXTINF: -1 tvg-name="DD NEWS" tvg-chno="12" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_News.png", DD NEWS HD
 #EXTGRP:NEWS
-http://filex.me:8080//live/Home329/Sohailhome/497253.ts
+https://allinonereborn.fun/opplex156.m3u8?id=244799
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=1034&key
-#EXTINF: -1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74233-la71l5eg-v4/imageContent-74233-la71l5eg-m5.png", News State Bihar Jharkhand
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=36&key
+#EXTINF: -1 tvg-name="NEWS NATION" tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/News_nation_logo.jpg", NEWS NATION
 #EXTGRP:NEWS
-http://accounting-dates-trinidad-britney.trycloudflare.com/JioTv/app/live.php?id=2764&e=.m3u8
+https://amg24335-amg24335c1-amgplt0016.playout.now3.amagi.tv/playlist/amg24335-amg24335c1-amgplt0016/playlist.m3u8
+
+
+
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=514&key
-#EXTINF: -1 tvg-name="Zee Hindustan" tvg-chno="17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Zee_Hindustan_Logo.png/1280px-Zee_Hindustan_Logo.png", Zee Hindustan
-#EXTGRP:NEWS
-https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_840/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=1033&key
+#EXTINF: -1 tvg-name="AGC Sports Ultra" tvg-logo="https://raw.githubusercontent.com/raunakclapingo/AGC-TV-ONLINE/refs/heads/main/kindpng_2443827.png", AGC Sports Ultra
+#EXTGRP:SPORTS
+https://liveakdai.slivcdn.com/hls/live/2119921/cricacc12109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1758506137~acl=/*~id=04522128104910112879876065812982~hmac=7323ec06e17bbc1ca008aa8aa0ef18b9f49ba263e5f0e4b47774cee9f85edde3
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=1033&key
+#EXTINF: -1 tvg-name="Sports 18 - 1 HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png", Sports 18 - 1 HD
+#EXTGRP:SPORTS
+https://allinonereborn.com/tata-tv1.php?id=1984
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=24&key
+#EXTINF: -1 tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png", Star Sports 1 Hindi HD
+#EXTGRP:SPORTS
+https://allinonereborn.com/tata-tv1.php?id=12149
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=78&key
+#EXTINF: -1 tvg-name="Star Sports 1 English HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png", Star Sports 1 HD
+#EXTGRP:SPORTS
+https://allinonereborn.tech/allinone.php?id=57154
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=235&key
+#EXTINF: -1 tvg-name="Star Sports 2 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png", Star Sports 2 HD
+#EXTGRP:SPORTS
+http://txm1.flysat.live:2089/152099290352684/152082825718580/203430
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=246&key
+#EXTINF: -1 tvg-name="Star Sports Select 1 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG", Star Sports Select 1 HD
+#EXTGRP:SPORTS
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_413/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=463&key
+#EXTINF: -1 tvg-name="Star Sports Select 2 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png", Star Sports Select 2 HD
+#EXTGRP:SPORTS
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=464&key
+#EXTINF: -1 tvg-name="SONY SPORTS TEN 3 HINDI HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png", SONY SPORTS TEN 3 HINDI HD
+#EXTGRP:SPORTS
+https://dish.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=35&key
+#EXTINF: -1 tvg-name="SONY SPORTS TEN 5 ENGLISH HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png", SONY SPORTS TEN 5 ENGLISH HD
+#EXTGRP:SPORTS
+https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=223&key
+#EXTINF: -1 tvg-name="DD Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png", DD Sports
+#EXTGRP:SPORTS
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_146/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=812&key
+#EXTINF: -1 tvg-name="Eurosport HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52842-k980h8vc-v1/imageContent-52842-k980h8vc-m2.png", Eurosport HD
+#EXTGRP:SPORTS
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1109/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=815&key
+#EXTINF: -1 tvg-name="1sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52856-k984c4vc-v1/imageContent-52856-k984c4vc-m1.png", 1sports
+#EXTGRP:SPORTS
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_1110/output/manifest.mpd
+
 
 
 
@@ -534,98 +595,6 @@ http://sansat.net:25461/HGBVCXDRE4326/UGeMMiKmaYLXBv4/96274
 #EXTINF: -1 tvg-name="Zee ETC BOLLYWOOD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/ZeeETCBollywoodLogo.png/340px-ZeeETCBollywoodLogo.png", Zee ETC BOLLYWOOD
 #EXTGRP:MOVIES
 http://sansat.net:25461/HGBVCXDRE4326/UGeMMiKmaYLXBv4/96345
-
-
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=1033&key
-#EXTINF: -1 tvg-name="Sports 18 - 1 HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png", Sports 18 - 1 HD
-#EXTGRP:SPORTS
-https://allinonereborn.com/tata-tv1.php?id=1984
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=24&key
-#EXTINF: -1 tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png", Star Sports 1 Hindi HD
-#EXTGRP:SPORTS
-https://allinonereborn.com/tata-tv1.php?id=12149
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=78&key
-#EXTINF: -1 tvg-name="Star Sports 1 English HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png", Star Sports 1 HD
-#EXTGRP:SPORTS
-https://allinonereborn.tech/allinone.php?id=57154
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=235&key
-#EXTINF: -1 tvg-name="Star Sports 2 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png", Star Sports 2 HD
-#EXTGRP:SPORTS
-http://txm1.flysat.live:2089/152099290352684/152082825718580/203430
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=246&key
-#EXTINF: -1 tvg-name="Star Sports Select 1 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG", Star Sports Select 1 HD
-#EXTGRP:SPORTS
-https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_413/output/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=463&key
-#EXTINF: -1 tvg-name="Star Sports Select 2 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png", Star Sports Select 2 HD
-#EXTGRP:SPORTS
-https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=81&key
-#EXTINF: -1 tvg-name="SONY SPORTS TEN 1 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png", SONY SPORTS TEN 1 HD
-#EXTGRP:SPORTS
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=462&key
-#EXTINF: -1 tvg-name="SONY SPORTS TEN 2 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png", SONY SPORTS TEN 2 HD
-#EXTGRP:SPORTS
-https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=464&key
-#EXTINF: -1 tvg-name="SONY SPORTS TEN 3 HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png", SONY SPORTS TEN 3 HD
-#EXTGRP:SPORTS
-https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_727/output/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=35&key
-#EXTINF: -1 tvg-name="SONY SPORTS TEN 5 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png", SONY SPORTS TEN 5 HD
-#EXTGRP:SPORTS
-https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_254/output/manifest.mpd
-
-#EXTINF: -1 tvg-name="SONY SPORTS TEN 3 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png", SONY SPORTS TEN 3 HD
-#EXTGRP:SPORTS
-http://sansat.net:25461/HGBVCXDRE4326/UGeMMiKmaYLXBv4/93734
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=223&key
-#EXTINF: -1 tvg-name="DD Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png", DD Sports
-#EXTGRP:SPORTS
-https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_146/output/manifest.mpd
-
-#EXTINF: -1 tvg-name="STAR SPORTS FIRST" tvg-logo="https://m3u-editor.com/storage/channel-logos/d879a970-6efd-11ee-9390-b3e4d5e7d28f/5487742/964276150.jpg" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/e/e0/Star_Sports_First.jpg/revision/latest/scale-to-width-down/210?cb=20190725055820", STAR SPORTS FIRST
-#EXTGRP:SPORTS
-http://sansat.net:25461/HGBVCXDRE4326/UGeMMiKmaYLXBv4/93728
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=812&key
-#EXTINF: -1 tvg-name="Eurosport HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52842-k980h8vc-v1/imageContent-52842-k980h8vc-m2.png", Eurosport HD
-#EXTGRP:SPORTS
-https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1109/output/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=815&key
-#EXTINF: -1 tvg-name="1sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52856-k984c4vc-v1/imageContent-52856-k984c4vc-m1.png", 1sports
-#EXTGRP:SPORTS
-https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_1110/output/manifest.mpd
-
 
 
 
